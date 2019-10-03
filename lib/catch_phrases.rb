@@ -1,4 +1,4 @@
-def mario
+#def mario
   
   puts phrase
 end
